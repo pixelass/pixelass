@@ -1,5 +1,3 @@
-Let's work together: 
-
 ```
            MMM.           .MMM
            MMMMMMMMMMMMMMMMMMM
