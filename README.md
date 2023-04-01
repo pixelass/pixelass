@@ -31,4 +31,4 @@ His love for creativity and self-expression extends beyond the digital realm, as
 
 ## Conclusion
 
-Gregor Adams' story is a powerful reminder of the incredible potential that lies within each of us. His agility, unyielding quest for knowledge, and dedication to empowering others through teaching and mentorship make him a true inspiration. As we look at the life of this self-taught developer, coach, and mentor, we are reminded that with passion, determination, and the willingness to continuously learn, anyone can achieve greatness and positively impact the lives of others
+Gregor Adams' story is a powerful reminder of the incredible potential that lies within each of us. His agility, unyielding quest for knowledge, and dedication to empowering others through teaching and mentorship make him a true inspiration. As we look at the life of this self-taught developer, coach, and mentor, we are reminded that with passion, determination, and the willingness to continuously learn, anyone can achieve greatness and positively impact the lives of others.
