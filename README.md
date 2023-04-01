@@ -4,9 +4,9 @@
 
 3. I am known for my agile approach, constantly evolving my skills and knowledge to stay on the cutting edge of technology.
 
-4. My groundbreaking experiments in web development have led me to speak at numerous conferences worldwide, sharing my insights and inspiring fellow developers.
+4. I am a passionate teacher and mentor, dedicated to helping others achieve their career goals, and maintaining a balanced life by engaging in various sports, practicing meditation, and pursuing creative hobbies.
 
-5. I am a passionate teacher and mentor, dedicated to helping others achieve their career goals, and maintaining a balanced life by engaging in various sports, practicing meditation, and pursuing creative hobbies.
+5. My groundbreaking experiments in web development have led me to speak at numerous conferences worldwide, sharing my insights and inspiring fellow developers.
 
 [<img src="https://i.ytimg.com/vi/Y2G4nhkBYkc/maxresdefault.jpg" width="49%">](https://www.youtube.com/watch?v=Y2G4nhkBYkc "GREGOR ADAMS Exploring Fractals in CSS | CascadiaFest 2015")
 [<img src="https://i.ytimg.com/vi/Os6f2m8VDGU/maxresdefault.jpg" width="49%">](https://www.youtube.com/watch?v=Os6f2m8VDGU "Gregor Adams | CSS Variables | CSS Day 2017")
