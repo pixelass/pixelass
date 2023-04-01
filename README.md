@@ -18,6 +18,8 @@ Gregor's pursuit of knowledge has led him to explore the boundaries of web devel
 
 As a result of his groundbreaking work, Gregor has been invited to speak at numerous conferences around the world. His presentations often focus on his discoveries and the implications they have for the web development community. By sharing his insights, Gregor continues to contribute to the field's advancement and inspire fellow developers.
 
+[<img src="https://i.ytimg.com/vi/Y2G4nhkBYkc/maxresdefault.jpg" width="49%">](https://www.youtube.com/watch?v=Y2G4nhkBYkc "GREGOR ADAMS Exploring Fractals in CSS | CascadiaFest 2015")
+[<img src="https://i.ytimg.com/vi/Os6f2m8VDGU/maxresdefault.jpg" width="49%">](https://www.youtube.com/watch?v=Os6f2m8VDGU "Gregor Adams | CSS Variables | CSS Day 2017")
 
 ## The Mentor and Teacher
 
