@@ -1,11 +1,10 @@
-My journey began with determination and a strong desire to learn. I started as a hairdresser, but my curiosity led me to web development, where I taught myself programming languages and design principles.
+<p align="center"><img src="https://user-images.githubusercontent.com/1148334/231671805-774831f5-9a40-4d29-ab66-6bd9a753cc7e.png" alt="" width="200"/></p>
+My journey began with determination and a strong desire to learn. I started as a hairdresser, but my curiosity led me to web development, where I taught myself programming languages and design principles.I'm keen on keeping up with the latest in tech, and recently, I've been fascinated by AI and the new possibilities it brings as we enter a fresh era.  
+Continuously learning and adapting my skills, I stay ahead of the curve. As a mentor and teacher, I find enjoyment in helping others reach their goals while maintaining a balanced life that includes sports, meditation, and creative hobbies. I've had the opportunity to speak at conferences all around the world, sharing my experiences and inspiring fellow developers to push their boundaries and explore innovative ideas. I aim to encourage those around me to always strive for more and keep learning.
 
-I'm keen on keeping up with the latest in tech, and recently, I've been fascinated by AI and the new possibilities it brings as we enter a fresh era. Continuously learning and adapting my skills, I stay ahead of the curve. As a mentor and teacher, I find enjoyment in helping others reach their goals while maintaining a balanced life that includes sports, meditation, and creative hobbies.
+------
 
-I've had the opportunity to speak at conferences all around the world, sharing my experiences and inspiring fellow developers to push their boundaries and explore innovative ideas. I aim to encourage those around me to always strive for more and keep learning.
-
-[<img src="https://i.ytimg.com/vi/Y2G4nhkBYkc/maxresdefault.jpg" width="49%">](https://www.youtube.com/watch?v=Y2G4nhkBYkc "GREGOR ADAMS Exploring Fractals in CSS | CascadiaFest 2015")
-[<img src="https://i.ytimg.com/vi/Os6f2m8VDGU/maxresdefault.jpg" width="49%">](https://www.youtube.com/watch?v=Os6f2m8VDGU "Gregor Adams | CSS Variables | CSS Day 2017")
+[<img src="https://i.ytimg.com/vi/Y2G4nhkBYkc/maxresdefault.jpg" width="49%" />](https://www.youtube.com/watch?v=Y2G4nhkBYkc "GREGOR ADAMS Exploring Fractals | in CSS CascadiaFest 2015")[<img src="https://i.ytimg.com/vi/Os6f2m8VDGU/maxresdefault.jpg" width="49%" />](https://www.youtube.com/watch?v=Os6f2m8VDGU "Gregor Adams | CSS Variables | CSS Day 2017")
 
 
 
