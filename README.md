@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/pixelass/pixelass/assets/1148334/5242bdfb-f508-4441-9252-e45396f493c4" alt="" width="500"/></p>
+<p align="center"><img src="https://github.com/pixelass/pixelass/assets/1148334/9d27b672-a88e-482d-ae38-955aea41b200" alt="" width="800"/></p>
 My journey began with determination and a strong desire to learn. I started as a hairdresser, but my curiosity led me to web development, where I taught myself programming languages and design principles. I'm keen on keeping up with the latest in tech, and recently, I've been fascinated by AI and the new possibilities it brings as we enter a fresh era.  
 Continuously learning and adapting my skills, I stay ahead of the curve. As a mentor and teacher, I find enjoyment in helping others reach their goals while maintaining a balanced life that includes sports, meditation, and creative hobbies. I've had the opportunity to speak at conferences all around the world, sharing my experiences and inspiring fellow developers to push their boundaries and explore innovative ideas. I aim to encourage those around me to always strive for more and keep learning.
 
