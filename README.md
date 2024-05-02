@@ -23,7 +23,7 @@
 
 **Captain** is more than just software. It's a tool designed to make AI technology accessible, transparent, and ethical. Our mission with Captain is to empower people to use AI responsibly and creatively, while your data remains private.
 
-As someone who merges AI with web technology, I focus on making Captain user-friendly and effective. We aim to keep Captain at the forefront of technological advancements, making it a practical tool for anyone that has access to a computer.
+I focus on making Captain user-friendly and effective. We aim to keep Captain at the forefront of technological advancements, making it a practical tool for anyone that has access to a computer.
 
 **I am dedicated to innovation, learning, and responsible technology use. Join us in exploring the possibilities of AI.**
 
