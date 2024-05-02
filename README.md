@@ -1,10 +1,19 @@
 ## Welcome to My GitHub!
 
-<p align="center">
-    <img src="https://github.com/pixelass/pixelass/assets/1148334/50103ab9-30cb-4868-983d-efeb4d99059e" alt="Gregor's Space Shuttle" width="125"/>
-</p>
+<table>
+    <tr>
+        <td width="20%">
+            <img src="https://github.com/pixelass/pixelass/assets/1148334/50103ab9-30cb-4868-983d-efeb4d99059e" alt="Gregor's Space Shuttle" width="100%"/>
+        </td>
+        <td>
+            From an early age, I've been driven by a passion for pushing the limits of creativity and innovation. At the age of seven, I created an abstract space shuttle that was displayed for its innovative design at an art exhibition curated by <a href="https://www.robert-kessler.de">Robert Kessler</a>, a moment that marked the beginning of my journey in exploring the boundless possibilities of imagination.<br/>
+            This formative experience now fuels my work as the founder of <strong>Blibla</strong> and the creator of <a href="https://blibla.com/captain"><strong>Captain</strong></a>, our open-source AI platform designed to democratize technology in a responsible and accessible way.<br/><br/>
+            My professional path is deeply intertwined with my love for teaching and mentoring. With years of experience as an educator and speaker, I am committed to sharing knowledge and inspiring others in the tech community.<br/>
+            Beyond technology, art and music play integral roles in my life, enriching my creative vision and approach to innovation.<br/>
+        </td>
+    </tr>
+</table>
 
-From an early age, I've been passionate about pushing the limits of creativity and innovation. When I was seven, I created an abstract space shuttle that was displayed at an art exhibition by [Robert Kessler](https://www.robert-kessler.de/), who recognized my potential early on. This formative experience now drives my work as a founder of **Blibla** and creator of [**Captain**](https://blibla.com/captain), our open source AI platform.
 
 <h3 align="center">About Captain</h3>
 
@@ -26,10 +35,10 @@ Learn more about how Captain can transform your AI engagement by visiting our [o
 Here are some highlights from past talks where I explored the intricacies of CSS and innovative web technologies, demonstrating my commitment to sharing knowledge and educating the tech community.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Y2G4nhkBYkc">
-    <img src="https://i.ytimg.com/vi/Y2G4nhkBYkc/maxresdefault.jpg" width="49%" alt="GREGOR ADAMS Exploring Fractals | in CSS CascadiaFest 2015" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=Os6f2m8VDGU">
-    <img src="https://i.ytimg.com/vi/Os6f2m8VDGU/maxresdefault.jpg" width="49%" alt="Gregor Adams | CSS Variables | CSS Day 2017" />
-  </a>
+    <a href="https://www.youtube.com/watch?v=Y2G4nhkBYkc">
+        <img src="https://i.ytimg.com/vi/Y2G4nhkBYkc/maxresdefault.jpg" width="49%" alt="GREGOR ADAMS Exploring Fractals | in CSS CascadiaFest 2015" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=Os6f2m8VDGU">
+        <img src="https://i.ytimg.com/vi/Os6f2m8VDGU/maxresdefault.jpg" width="49%" alt="Gregor Adams | CSS Variables | CSS Day 2017" />
+    </a>
 </p>
