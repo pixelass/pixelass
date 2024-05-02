@@ -1,11 +1,35 @@
-<p align="center"><img src="https://github.com/pixelass/pixelass/assets/1148334/9d27b672-a88e-482d-ae38-955aea41b200" alt="" width="800"/></p>
+## Welcome to My GitHub!
 
-I began my artistic journey at age seven with an exhibited design that showcased my innovative spirit. Today, I apply that same creativity to web development, emphasizing the ethical application of AI. With a strong background in UX/UI, I aim to redefine user experiences, pushing the boundaries of technology with transparency and responsibility. As an international speaker, I share my enthusiasm for innovation, guiding others to see the potential of Technology in crafting unique digital landscapes. My past roles as a mentor, teacher and team lead reflect my commitment to mentorship and making a tangible impact in the tech community. Co-founding Blibla embodies my desire to venture into new territories, driven by a passion for exploration. When I'm not coding, I find balance and inspiration through sports and music, fueling my continuous journey towards innovation.
+<p align="center">
+    <img src="https://github.com/pixelass/pixelass/assets/1148334/50103ab9-30cb-4868-983d-efeb4d99059e" alt="Gregor's Space Shuttle" width="125"/>
+</p>
 
-------
+From an early age, I've been passionate about pushing the limits of creativity and innovation. When I was seven, I created an abstract space shuttle that was displayed at an art exhibition by [Robert Kessler](https://www.robert-kessler.de/), who recognized my potential early on. This formative experience now drives my work as the founder of **Blibla** and the creator of [**Captain**](https://blibla.com/captain), our open source AI platform.
 
-[<img src="https://i.ytimg.com/vi/Y2G4nhkBYkc/maxresdefault.jpg" width="49%" />](https://www.youtube.com/watch?v=Y2G4nhkBYkc "GREGOR ADAMS Exploring Fractals | in CSS CascadiaFest 2015")[<img src="https://i.ytimg.com/vi/Os6f2m8VDGU/maxresdefault.jpg" width="49%" />](https://www.youtube.com/watch?v=Os6f2m8VDGU "Gregor Adams | CSS Variables | CSS Day 2017")
+<h3 align="center">About Captain</h3>
 
+<p align="center">
+    <img src="https://github.com/pixelass/pixelass/assets/1148334/4077e074-50c4-4d36-9fff-43c345e733c3" alt="Captain Logo" width="125"/>
+</p>
 
+**Captain** is more than just software. It's a tool designed to make AI technology accessible, transparent, and ethical. Our mission with Captain is to empower people to use AI responsibly and creatively, while your data remains private.
 
-![OpenAI](https://img.shields.io/badge/OpenAI-00549F?style=for-the-badge&logo=openai&logoColor=white) ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-%23340068?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+As someone who merges AI with web technology, I focus on making Captain user-friendly and effective. We aim to keep Captain at the forefront of technological advancements, making it a practical tool for anyone that has access to a computer.
+
+**I am dedicated to innovation, learning, and responsible technology use. Join me in exploring the possibilities of AI.**
+
+Learn more about how Captain can transform your AI engagement by visiting our [official website](https://get-captain.com) and [Captain on GitHub](https://blibla.com/captain). Let’s explore what AI can achieve together.
+
+---
+
+### Highlights from My Speaking Engagements
+Here are some highlights from past talks where I explored the intricacies of CSS and innovative web technologies, demonstrating my commitment to sharing knowledge and educating the tech community.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Y2G4nhkBYkc">
+    <img src="https://i.ytimg.com/vi/Y2G4nhkBYkc/maxresdefault.jpg" width="49%" alt="GREGOR ADAMS Exploring Fractals | in CSS CascadiaFest 2015" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=Os6f2m8VDGU">
+    <img src="https://i.ytimg.com/vi/Os6f2m8VDGU/maxresdefault.jpg" width="49%" alt="Gregor Adams | CSS Variables | CSS Day 2017" />
+  </a>
+</p>
