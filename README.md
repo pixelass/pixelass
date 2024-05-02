@@ -16,7 +16,7 @@ From an early age, I've been passionate about pushing the limits of creativity a
 
 As someone who merges AI with web technology, I focus on making Captain user-friendly and effective. We aim to keep Captain at the forefront of technological advancements, making it a practical tool for anyone that has access to a computer.
 
-**I am dedicated to innovation, learning, and responsible technology use. Join me in exploring the possibilities of AI.**
+**I am dedicated to innovation, learning, and responsible technology use. Join us in exploring the possibilities of AI.**
 
 Learn more about how Captain can transform your AI engagement by visiting our [official website](https://get-captain.com) and [Captain on GitHub](https://blibla.com/captain). Let’s explore what AI can achieve together.
 
