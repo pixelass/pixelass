@@ -4,7 +4,7 @@
     <img src="https://github.com/pixelass/pixelass/assets/1148334/50103ab9-30cb-4868-983d-efeb4d99059e" alt="Gregor's Space Shuttle" width="125"/>
 </p>
 
-From an early age, I've been passionate about pushing the limits of creativity and innovation. When I was seven, I created an abstract space shuttle that was displayed at an art exhibition by [Robert Kessler](https://www.robert-kessler.de/), who recognized my potential early on. This formative experience now drives my work as the founder of **Blibla** and the creator of [**Captain**](https://blibla.com/captain), our open source AI platform.
+From an early age, I've been passionate about pushing the limits of creativity and innovation. When I was seven, I created an abstract space shuttle that was displayed at an art exhibition by [Robert Kessler](https://www.robert-kessler.de/), who recognized my potential early on. This formative experience now drives my work as a founder of **Blibla** and creator of [**Captain**](https://blibla.com/captain), our open source AI platform.
 
 <h3 align="center">About Captain</h3>
 
