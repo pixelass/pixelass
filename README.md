@@ -6,7 +6,7 @@
             <img src="https://github.com/pixelass/pixelass/assets/1148334/50103ab9-30cb-4868-983d-efeb4d99059e" alt="Gregor's Space Shuttle" width="100%"/>
         </td>
         <td>
-            From an early age, I knew: "When you reach for the stars, your're going to need a spaceship", so when I was 7, I created an abstract spaceship that was displayed for its innovative design at an art exhibition by <a href="https://www.robert-kessler.de">Robert Kessler</a>. It was a moment that marked the beginning of my journey in exploring the boundless possibilities of imagination.<br/>
+            From an early age, I knew: <strong>"When you reach for the stars, you're going to need a spaceship"</strong>, so when I was 7, I created an abstract spaceship that was displayed for its innovative design at an art exhibition by <a href="https://www.robert-kessler.de">Robert Kessler</a>. It was a moment that marked the beginning of my journey in exploring the boundless possibilities of imagination.<br/>
             This formative experience now fuels my work as one of the founders of <strong>Blibla</strong> and the creator of <a href="https://blibla.com/captain"><strong>Captain</strong></a>, our open-source AI platform designed to democratize technology in a responsible and accessible way.<br/><br/>
             My professional path is deeply intertwined with my love for teaching and mentoring. With years of experience as an educator and speaker, I am committed to sharing knowledge and inspiring others in the tech community.<br/>
             Beyond technology, art and music play integral roles in my life, enriching my creative vision and approach to innovation.<br/>
