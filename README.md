@@ -15,7 +15,7 @@
 </table>
 
 
-<h3 align="center">About Captain</h3>
+<h3 align="center">Captain | The AI Platform</h3>
 
 <p align="center">
     <img src="https://github.com/pixelass/pixelass/assets/1148334/4077e074-50c4-4d36-9fff-43c345e733c3" alt="Captain Logo" width="125"/>
