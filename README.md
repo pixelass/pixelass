@@ -27,7 +27,7 @@ I focus on making Captain user-friendly and effective, while we aim to keep Capt
 
 **I am dedicated to innovation, learning, and responsible technology use. Join us in exploring the possibilities of AI.**
 
-Learn more about how Captain can transform your AI engagement by visiting our [official website](https://get-captain.com) and [Captain on GitHub](https://blibla.com/captain). Let’s explore what AI can achieve together.
+Learn more about how Captain can transform your AI engagement by visiting our [official website](https://get-captain.com) and [Captain on GitHub](https://github.com/blib-la/captain). Let’s explore what AI can achieve together.
 
 ---
 
