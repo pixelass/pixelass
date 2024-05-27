@@ -31,7 +31,6 @@ Learn more about how Captain can transform your AI engagement by visiting our [o
 
 ---
 
-### Highlights from My Speaking Engagements
 Here are some highlights from past talks where I explored the intricacies of CSS and innovative web technologies, demonstrating my commitment to sharing knowledge and educating the tech community.
 
 <p align="center">
