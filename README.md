@@ -31,7 +31,7 @@ Learn more about how Captain can transform your AI engagement by visiting our [o
 
 ---
 
-Here are some highlights from past talks where I explored the intricacies of CSS and innovative web technologies, demonstrating my commitment to sharing knowledge and educating the tech community.
+Here are some highlights from past talks where I explored generative art and fractals in CSS.
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=Y2G4nhkBYkc">
