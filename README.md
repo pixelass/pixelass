@@ -1,5 +1,3 @@
-## Welcome to My GitHub!
-
 <table>
     <tr>
         <td width="20%">
